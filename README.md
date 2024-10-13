@@ -1,3 +1,5 @@
+**gestionarea abonamentelor la sala - gestionare inregistrare si monitorizare**
+
 Pentru a realiza acest lucru avem nevoie de mai multe clase , fiecare avand roluri clar definite  pentru a permite o gestionare eficienta . 
 
  Clasa Membru: gestionează datele personale ale fiecărui membru, precum numele, ID-ul, tipul de abonament și starea de activitate.
