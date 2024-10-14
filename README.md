@@ -15,3 +15,11 @@ Clasa Gym: administrează toate operațiunile legate de sală, cum ar fi înregi
 -O sa monitorizez activitatea lor.
 
 -O sa simulez dezactivarea abonamentului expirat.
+
+tipuri abonamente 
+
+optiune prelungire abonament 
+
+membru rol admin/ self management
+functie pay
+
