@@ -9,6 +9,7 @@ Pentru a realiza acest lucru avem nevoie de mai multe clase , fiecare avand rolu
 Clasa Gym: administrează toate operațiunile legate de sală, cum ar fi înregistrarea membrilor, crearea de abonamente, monitorizarea activității membrilor și dezactivarea automată a celor cu abonamente expirate.
   
 Main Function:
+
 -O sa adaug membri si abonamentul lor.
 
 -O sa monitorizez activitatea lor.
